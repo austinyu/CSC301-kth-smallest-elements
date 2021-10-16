@@ -17,7 +17,7 @@ This is an implementation of kth smallest element in `C`. The algorithm is adapt
 
 To show our algorithm is correct, we can run `kth-tests.c`. To show the time complexity of our program, we can run `kth-experiments.c` and feed the output into `complexity-visualization.ipynb` to show that the alortihm runs in linear time. 
 
-![Screen Shot 2021-10-16 at 14.22.14](ReadMe.assets/Screen Shot 2021-10-16 at 14.22.14.png)
+![Screen Shot 2021-10-16 at 14.22.14](ReadMe_assets/Runtime.png)
 
 # Credit
 
